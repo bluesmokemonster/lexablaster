@@ -1,0 +1,99 @@
+22521267953581
+Kittle
+2P2T
+
+
+0
+3
+3
+Kittle
+128X32OLED
+
+
+0
+4
+4
+Kittle
+571-0500
+FEMALE BANANA JACK<p>{return}stacking pitch 0.394"
+
+0
+2
+2
+Kittle
+Breadboard830
+
+
+0
+0
+0
+Kittle
+DualResistor
+<b>RESISTOR</b><p>{return}type 0207, grid 10 mm
+
+0
+4
+4
+Kittle
+ESP32-WROOM-32-SMALL_FP
+Single 2.4 GHz Wi-Fi and Bluetooth combo chip https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32_datasheet_en.pdf
+Single 2.4 GHz Wi-Fi and Bluetooth combo  chip
+0
+39
+39
+Kittle
+HeltecWiFiLoRA32-v2
+
+
+0
+36
+36
+Kittle
+IRLD110
+4-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), LongPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil LongPads
+0
+4
+4
+Kittle
+R141426
+<b>BNC COAX CONNECTOR</b><p>{return}Radiall<p>{return}50/75 Ohm <p>{return}Spoerle
+
+0
+5
+5
+Kittle
+TO-220-3_Horizontal_TabDown-WITH_HOLE
+TO-220-3, Horizontal, RM 2.54mm, see https://www.vishay.com/docs/66542/to-220-1.pdf
+TO-220-3 Horizontal RM 2.54mm
+0
+3
+3
+Kittle
+TRIM_3296W-1-254LF
+
+
+0
+3
+3
+Kittle
+TTGO_ESP32_TDisplay_v1.1
+
+
+0
+24
+24
+Kittle
+Teensy40
+
+
+0
+44
+44
+Kittle
+WROOM32_SKINNY
+
+
+0
+39
+39
